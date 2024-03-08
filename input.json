@@ -1,0 +1,54 @@
+{
+    "team" : [
+        {
+            "name" : "David",
+            "attributes" : {
+                "intelligence" : 1,
+                "technical skill" : 5,
+                "soft skill" : 3
+            }
+        },
+        {
+            "name" : "Burt",
+            "attributes" : {
+                "intelligence" : 2,
+                "technical skill" : 4,
+                "soft skill" : 5
+            }
+        },
+        {
+            "name" : "Kristina",
+            "attributes" : {
+                "intelligence" : 4,
+                "technical skill" : 2,
+                "soft skill" : 3
+            }
+        }
+    ],
+    "applicants" : [
+        {
+            "name" : "Alyssa",
+            "attributes" : {
+                "intelligence" : 4,
+                "technical skill" : 4,
+                "soft skill" : 4
+            }
+        },
+        {
+            "name" : "Richard",
+            "attributes" : {
+                "intelligence" : 5,
+                "technical skill" : 3,
+                "soft skill" : 5
+            }
+        },
+        {
+            "name" : "Alana",
+            "attributes" : {
+                "intelligence" : 4,
+                "technical skill" : 5,
+                "soft skill" : 5
+            }
+        }
+    ]
+}
